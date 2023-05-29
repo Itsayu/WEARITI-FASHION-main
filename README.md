@@ -7,7 +7,7 @@
     <div>
     <p >
       <span>  🛍️ WearITI is your go-to fashion e-commerce platform!   🛍️</span><br/>
-      Discover the latest trends and stylish outfits to elevate your wardrobe. Whether you're looking for casual wear, formal attire, or something in between, ATTIREX has got you covered.Shop from a wide range of fashionable clothing options to express your unique style and make a statement.
+      Discover the latest trends and stylish outfits to elevate your wardrobe. Whether you're looking for casual wear, formal attire, or something in between, WEARITI has got you covered.Shop from a wide range of fashionable clothing options to express your unique style and make a statement.
     </p>
     </div>
   </div>
